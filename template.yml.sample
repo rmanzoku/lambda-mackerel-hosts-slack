@@ -9,4 +9,6 @@ Resources:
       CodeUri: .
       Environment:
         Variables:
-          HOGEHOGE: hugahuga
+          MACKEREL_APIKEY: hoge
+          SLACK_CHANNEL: "#hoge"
+          SLACK_WEBHOOK_URL: "https://hooks.slack.com/services/a/b/c"
